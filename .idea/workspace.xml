@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50dc3740-5b7d-4c5b-b8c3-2acc0fdcfa0e" name="Changes" comment="hellojava">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EventDriven.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CreateFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Extendingframe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GraphicDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="50dc3740-5b7d-4c5b-b8c3-2acc0fdcfa0e" name="Changes" comment="JavaAWT">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CreateFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreateFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Extendingframe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extendingframe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GraphicDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GraphicDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +46,21 @@
       <option name="presentableId" value="Default" />
       <updated>1686400243236</updated>
     </task>
+    <task id="LOCAL-00001" summary="JavaAWT">
+      <created>1686423938180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686423938180</updated>
+    </task>
+    <task id="LOCAL-00002" summary="JavaAWT">
+      <created>1686423946522</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1686423946522</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,6 +76,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hellojava" />
-    <option name="LAST_COMMIT_MESSAGE" value="hellojava" />
+    <MESSAGE value="JavaAWT" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaAWT" />
   </component>
 </project>
