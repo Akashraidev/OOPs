@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="50dc3740-5b7d-4c5b-b8c3-2acc0fdcfa0e" name="Changes" comment="JavaAWT">
+      <change afterPath="$PROJECT_DIR$/src/font.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CreateFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CreateFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Extendingframe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Extendingframe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GraphicDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GraphicDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="temp-master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
