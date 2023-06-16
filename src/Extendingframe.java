@@ -4,7 +4,7 @@ public class Extendingframe extends Frame {
     {
       this.setVisible(true);
       this.setSize(400,500);
-      this.setTitle("Create Frame by extending Frame class");
+      this.setTitle(" Frame by extending Frame Class");
     }
 
     public static void main(String[] args) {
