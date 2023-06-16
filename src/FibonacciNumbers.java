@@ -4,7 +4,7 @@ public class FibonacciNumbers {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.print("Enter the number of Fibonacci numbers to print: ");
+        System.out.print("Enter the number of Fibonacci numbers to print: -");
         int count = scanner.nextInt();
 
         printFibonacciNumbers(count);
