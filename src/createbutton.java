@@ -14,6 +14,7 @@ public class createbutton extends Frame {
         this.setTitle("create button");
     }
     public static void main(String[] args) {
+
         createbutton cb= new createbutton();
     }
 }
