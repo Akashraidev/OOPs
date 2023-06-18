@@ -13,7 +13,7 @@ public class GraphicDemo extends Frame
         this.setSize(300,300);
         this.setBackground(Color.cyan);
     }
-
+//Akash
     @Override
     public void paint(Graphics g) {
        g.drawString("Welcome",60,60);
