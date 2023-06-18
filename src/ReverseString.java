@@ -1,6 +1,6 @@
 public class ReverseString {
     public static void main(String[] args) {
-        String inputString = "My name is Aakash Rai";
+        String inputString = "My name is Akash Rai";
         String reversedString = reverseString(inputString);
 
         System.out.println("Original String: " + inputString);
